@@ -164,3 +164,11 @@ $$R_ {curve} = {[1 + ({2Ay + B })^2]^{3/2} \over |{2A}|}.$$
 
 ![ScreenShot][image10]
 ![ScreenShot][image11]
+
+### 13. Pipeline (video)
+
+Here's a [link to my video result](./project_video_output.mp4)
+
+### 14. Discussion
+
+My Pipeline fails on challenge videos
