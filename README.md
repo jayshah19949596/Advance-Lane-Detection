@@ -156,7 +156,7 @@
   $$ f'(y) = {\frac{dy}{dx}} = {2Ay + B }. $$
   $$ f''(y) = {\frac{d^2y}{dx^2}} = {2A}. $$
 - So, our equation for radius of curvature becomes:
- $`  R_ {curve} = {[1 + ({2Ay + B })^2]^{3/2} \over |{2A}|}. `$
+ $$ R_ {curve} = {[1 + ({2Ay + B })^2]^{3/2} \over |{2A}|}. $$
 
 
 - we actually need to perform this calculation after converting our x and y values to real world space.
