@@ -151,12 +151,12 @@
 - used their x and y pixel positions to fit a second order polynomial curve:
    $$f(y) = {Ay^2 + By + C}.$$
 - Radius of curvature at any point x of the function x = f(y) is:
-   $$R_ {curve} = {[1 + (\frac{dy}{dx})^2]^{3/2} \over |\frac{d^2y}{dx^2}|}.$$
+   $$ R_ {curve} = {[1 + (\frac{dy}{dx})^2]^{3/2} \over |\frac{d^2y}{dx^2}|}. $$
 - In the case of the second order polynomial above, the first and second derivatives are: 
-  $$f'(y) = {\frac{dy}{dx}} = {2Ay + B }.$$
-  $$f''(y) = {\frac{d^2y}{dx^2}} = {2A}.$$
+  $$ f'(y) = {\frac{dy}{dx}} = {2Ay + B }. $$
+  $$ f''(y) = {\frac{d^2y}{dx^2}} = {2A}. $$
 - So, our equation for radius of curvature becomes:
-  $$R_ {curve} = {[1 + ({2Ay + B })^2]^{3/2} \over |{2A}|}.$$
+  $$\inline R_ {curve} = {[1 + ({2Ay + B })^2]^{3/2} \over |{2A}|}. $$
 
 - we actually need to perform this calculation after converting our x and y values to real world space.
 -  x and y values are converted to real world space in Cell 24, Line number 3 and 4
